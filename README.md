@@ -1,4 +1,4 @@
-# Asian-Kitchen-s-Menu-Hw
+# Asian-Kitchen-Menu-Hw
 Patika Academy Front-End for beginners Menu Hw
 
 
